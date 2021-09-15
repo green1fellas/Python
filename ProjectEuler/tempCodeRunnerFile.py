@@ -1,1 +1,4 @@
-print(factorial(100))
+print(numbers)
+# print()
+# print(sumOfDivisors)
+# print()
